@@ -1,10 +1,10 @@
-package com.univille.SistemaDeResumos;
+package com.univille.SistemaCriacao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemaDeResumosApplicationTests {
+class SistemaCriacaoApplicationTests {
 
 	@Test
 	void contextLoads() {

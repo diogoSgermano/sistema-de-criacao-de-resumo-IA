@@ -1,13 +1,13 @@
-package com.univille.SistemaDeResumos;
+package com.univille.SistemaCriacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SistemaDeResumosApplication {
+public class SistemaCriacaoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SistemaDeResumosApplication.class, args);
+		SpringApplication.run(SistemaCriacaoApplication.class, args);
 	}
 
 }
